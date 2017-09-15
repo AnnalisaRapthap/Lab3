@@ -12,4 +12,6 @@ int main()
   else if(a==b || b==c || c==a)
                 cout << "The triangle is isosceles";
  else if(a!=b && b!=c && c!=a)
+                cout << "The triangle is scalene";
+}
         
